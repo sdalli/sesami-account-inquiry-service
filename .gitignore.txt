@@ -1,0 +1,67 @@
+# Compiled source
+*.class
+
+# Logs
+*.log
+logs/
+log/
+
+# Temporary files
+*.tmp
+*.out
+
+# Build directories
+/target/
+/build/
+
+# IDE-specific files
+*.iml
+.idea/
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/node_modules/
+/bower_components/
+
+# Environment variables
+.env
+
+# Maven
+*.mvn
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
